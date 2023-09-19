@@ -1,2 +1,1 @@
-export * from './ResponseFormatting.interceptor';
-export * from './ResponseErrorFormatting.interceptor';
+export * from './response-formatting.interceptor';
